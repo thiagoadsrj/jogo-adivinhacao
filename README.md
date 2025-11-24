@@ -1,2 +1,2 @@
-# jogo-adivinhacao
-Projeto  JavaScript, Html e Css
+# jogo-adivinhação
+Projeto feito em: JavaScript, Html e Css
